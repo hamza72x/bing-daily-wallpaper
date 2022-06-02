@@ -23,6 +23,7 @@
     },
     "homepage": "https://github.com/dorian-marchal/bing-daily-wallpaper",
     "dependencies": {
+        "@hamza72x/bing-daily-wallpaper": "^2.0.9",
         "daily-wallpaper": "^0.2.1",
         "minimist": "~1.2.5",
         "node-fetch": "^2.6.5"
