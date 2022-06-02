@@ -1,6 +1,6 @@
 {
     "name": "@hamza72x/bing-daily-wallpaper",
-    "version": "2.0.9",
+    "version": "2.0.10",
     "description": "A simple command to run at boot time that set your (4K) wallpaper to the Bing image of the day.",
     "engines": {
         "node": ">=12"
@@ -23,7 +23,6 @@
     },
     "homepage": "https://github.com/dorian-marchal/bing-daily-wallpaper",
     "dependencies": {
-        "@hamza72x/bing-daily-wallpaper": "^2.0.9",
         "daily-wallpaper": "^0.2.1",
         "minimist": "~1.2.5",
         "node-fetch": "^2.6.5"
