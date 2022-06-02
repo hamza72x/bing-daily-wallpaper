@@ -1,36 +1,36 @@
 {
-  "name": "bing-daily-wallpaper",
-  "version": "2.0.7",
-  "description": "A simple command to run at boot time that set your wallpaper to the Bing image of the day.",
-  "engines": {
-    "node": ">=12"
-  },
-  "main": "index.js",
-  "bin": {
-    "bing-daily-wallpaper": "bin/bing-daily-wallpaper"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dorian-marchal/bing-daily-wallpaper.git"
-  },
-  "author": "dorian-marchal",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dorian-marchal/bing-daily-wallpaper/issues"
-  },
-  "homepage": "https://github.com/dorian-marchal/bing-daily-wallpaper",
-  "dependencies": {
-    "daily-wallpaper": "^0.2.1",
-    "minimist": "~1.2.5",
-    "node-fetch": "^2.6.5"
-  },
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.4.1"
-  }
+    "name": "@hamza72x/bing-daily-wallpaper",
+    "version": "2.0.8",
+    "description": "A simple command to run at boot time that set your (4K) wallpaper to the Bing image of the day.",
+    "engines": {
+        "node": ">=12"
+    },
+    "main": "index.js",
+    "bin": {
+        "bing-daily-wallpaper": "bin/bing-daily-wallpaper"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dorian-marchal/bing-daily-wallpaper.git"
+    },
+    "author": "dorian-marchal",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dorian-marchal/bing-daily-wallpaper/issues"
+    },
+    "homepage": "https://github.com/dorian-marchal/bing-daily-wallpaper",
+    "dependencies": {
+        "daily-wallpaper": "^0.2.1",
+        "minimist": "~1.2.5",
+        "node-fetch": "^2.6.5"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "prettier": "^2.4.1"
+    }
 }
