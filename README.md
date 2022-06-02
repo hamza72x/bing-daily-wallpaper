@@ -1,11 +1,11 @@
 # bing-daily-wallpaper
 
-A simple node script that sets your wallpaper to the Bing image of the day.
+A simple node script that sets your (4K) wallpaper to the Bing image of the day.
 
 ### Installation
 
 ```bash
-sudo npm install -g bing-daily-wallpaper
+sudo npm install -g @hamza72x/bing-daily-wallpaper
 ```
 
 ### Usage
